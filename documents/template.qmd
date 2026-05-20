@@ -1,8 +1,8 @@
 ---
 title: "Literature dissection"
 subtitle: "Spring 2026"
-author: "insert author names here"
-date: "insert date here"
+author: "Lukas Lescano, Garrett Mellinger, Minh Tri Ngo"
+date: "5/29/26"
 format: 
   pdf:
     toc: true
