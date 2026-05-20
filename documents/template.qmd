@@ -29,12 +29,18 @@ As a group:
 
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+
+|(14)| April 2025 | Spring | W  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/2055665470920 | 
+
+|(14)| April 2025 | Spring | SW  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/2055658478249 |
+
+|(15)| April 2025 | Spring | W   | https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/2055654520725 |
+
+|(15)| April 2025 | Spring | SW   | https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/2055665648822 |
+
+|(08)| April 2025 | Spring | E   | https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/2055656404525 |
+
+|(08)| April 2025 | Spring | SE   | https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/2055653140783 |
 
 8.  Describe in 5-7 sentences total:
 
