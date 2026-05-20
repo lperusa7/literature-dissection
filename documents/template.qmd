@@ -60,15 +60,16 @@ As a group:
 
 ## Report or poster information
 
-Title:
+Title: Evaluating Sheep Grazing as a Strategy for Restoring the North Campus Open Space (NCOS) Grasslands
 
-Authors:
+Authors: Abby Nestor
+Faculty Advisors: Dr. Lisa Stratton and Dr. Carla D'Antonio
 
-Year published:
+Year published: 2025
 
-Permalink:
+Permalink: [https://escholarship.org/uc/item/9jp6r7zs]
 
-Dataset used (likely):
+Dataset used (likely): self procured experimental datasets -- greenhouse seed viability experiment, biomass experiment 
 
 Key insights:
 
