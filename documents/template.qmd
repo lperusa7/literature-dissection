@@ -29,11 +29,16 @@ As a group:
 
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-|(14)| April 2025 | Spring | W  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/2055665470920 |
+|(14)| April 2025 | Spring | W  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/2055665470920 | 
+ 
 |(14)| April 2025 | Spring | SW  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/2055658478249 |
+ 
 |(15)| April 2025 | Spring | W   | https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/2055654520725 |
+ 
 |(15)| April 2025 | Spring | SW   | https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/2055665648822 |
+ 
 |(08)| April 2025 | Spring | E   | https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/2055656404525 |
+ 
 |(08)| April 2025 | Spring | SE   | https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/2055653140783 |
 
 8.  Describe in 5-7 sentences total:
@@ -103,15 +108,21 @@ As a group:
 8. Fill in the template for an annotated bibliography below.
 9. In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
 
-### Paper 1
+### Paper 1 (https://onlinelibrary.wiley.com/doi/full/10.1111/j.1654-109X.2010.01076.x)
 
-Title:
+Title: Rate of succession in restored wetlands and the role of site context
 
-Authors:
+Authors: Jeffrey W. Matthews, Anton G. Endress
 
 Main findings (2-4 sentences):
 
+- 
+- 
+
 Relevance to study (2-4 sentences):
+
+- 
+- 
 
 ### Paper 2
 
