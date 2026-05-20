@@ -71,7 +71,10 @@ Permalink: [https://escholarship.org/uc/item/9jp6r7zs]
 
 Dataset used (likely): self procured experimental datasets -- greenhouse seed viability experiment, biomass experiment 
 
-Key insights:
+Key insights: The dry biomass of native Stipa pulchra and Deinandra fasciculata and invasive species Medicago polymorpha, and Melilotus indicus, experienced a decrease following sheep grazing. The annual invasive grass Festuca perrenis increased its dry biomass following grazing.
+
+Additionally, T-test results suggest that the differences between the mean dry weights of the pre-grazing and
+post-grazing biomass samples of F. perennis, M. polymorpha, and S. pulchra are not statistically significant,
 
 Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
 
