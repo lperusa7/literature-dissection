@@ -29,17 +29,12 @@ As a group:
 
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-|(14)| April 2025 | Spring | W  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/2055665470920 | 
- 
-|(14)| April 2025 | Spring | SW  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/2055658478249 |
- 
-|(15)| April 2025 | Spring | W   | https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/2055654520725 |
- 
-|(15)| April 2025 | Spring | SW   | https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/2055665648822 |
- 
-|(08)| April 2025 | Spring | E   | https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/2055656404525 |
- 
-|(08)| April 2025 | Spring | SE   | https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/2055653140783 |
+| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| insert text here   | insert text here | insert text here | insert text here   | insert text here |
 
 8.  Describe in 5-7 sentences total:
 
@@ -48,8 +43,6 @@ As a group:
 -   which photo point you chose to examine
 -   how that photo point is relevant to your study
 -   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
-
-
 
 # Reports or posters
 
@@ -78,12 +71,10 @@ Permalink: [https://escholarship.org/uc/item/9jp6r7zs]
 
 Dataset used (likely): self procured experimental datasets -- greenhouse seed viability experiment, biomass experiment 
 
-Key insights: The dry biomass of native Stipa pulchra and Deinandra fasciculata and invasive species Medicago polymorpha, and Melilotus indicus, experienced a decrease following sheep grazing. The annual invasive grass Festuca perrenis increased its dry biomass following grazing.
+Key insights: The dry biomass of native Stipa pulchra and Deinandra fasciculata and invasive species Medicago polymorpha, and Melilotus indicus, experienced a decrease following sheep grazing. The annual invasive grass Festuca perrenis increased its dry biomass following grazing. Additionally, T-test results suggest that the differences between the mean dry weights of the pre-grazing and
+post-grazing biomass samples of F. perennis, M. polymorpha, and S. pulchra are not statistically significant. Finally, The abundance of M. polymorpha individuals, very few F. perennis individuals, and complete lack of S. pulchra, D. fasciculata, and M. indicus individuals, suggests that the seeds of M. polymorpha are relatively durable and have high germination viability after passing through the sheep.
 
-Additionally, T-test results suggest that the differences between the mean dry weights of the pre-grazing and
-post-grazing biomass samples of F. perennis, M. polymorpha, and S. pulchra are not statistically significant,
-
-Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
+Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.): 
 
 # Annotated bibliography
 
@@ -113,21 +104,15 @@ As a group:
 8. Fill in the template for an annotated bibliography below.
 9. In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
 
-### Paper 1 (https://onlinelibrary.wiley.com/doi/full/10.1111/j.1654-109X.2010.01076.x)
+### Paper 1
 
-Title: Rate of succession in restored wetlands and the role of site context
+Title:
 
-Authors: Jeffrey W. Matthews, Anton G. Endress
+Authors:
 
 Main findings (2-4 sentences):
 
-- 
-- 
-
 Relevance to study (2-4 sentences):
-
-- 
-- 
 
 ### Paper 2
 
