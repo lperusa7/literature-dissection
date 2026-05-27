@@ -50,21 +50,7 @@ As a group:
 -   how that photo point is relevant to your study
 -   what changes you see in vegetation, animals, environmental characteristics from the photos you chose.
 
-# Reports or posters
-
-Individually:
-
-1.  Navigate to a. the Posters section or b. the Reports section of the collection.
-2.  Find the poster(s) or report(s) related to your project.
-
-As a group:
-
-3.  Discuss which poster or report to focus on based on its relevance to your study question or context. **Note that you only need one of either type.**
-4.  Read the poster or report.
-5.  Discuss the key insights.
-6.  Provide the information in the space below. For "Key insights" and "Relevance to your study", respond in 3-5 sentences.
-
-## Report or poster information
+# Poster
 
 Title: Evaluating Sheep Grazing as a Strategy for Restoring the North Campus Open Space (NCOS) Grasslands
 
@@ -75,12 +61,12 @@ Year published: 2025
 
 Permalink: [https://escholarship.org/uc/item/9jp6r7zs]
 
-Dataset used (likely): self procured experimental datasets -- greenhouse seed viability experiment, biomass experiment 
+Dataset used (likely): self procured experimental datasets -- greenhouse seed viability experiment, field biomass experiment 
 
-Key insights: The dry biomass of native Stipa pulchra and Deinandra fasciculata and invasive species Medicago polymorpha, and Melilotus indicus, experienced a decrease following sheep grazing. The annual invasive grass Festuca perrenis increased its dry biomass following grazing. Additionally, T-test results suggest that the differences between the mean dry weights of the pre-grazing and
-post-grazing biomass samples of F. perennis, M. polymorpha, and S. pulchra are not statistically significant. Finally, The abundance of M. polymorpha individuals, very few F. perennis individuals, and complete lack of S. pulchra, D. fasciculata, and M. indicus individuals, suggests that the seeds of M. polymorpha are relatively durable and have high germination viability after passing through the sheep.
+The dry biomass of native *Stipa pulchra* and *Deinandra fasciculata* and invasive species *Medicago polymorpha*, and *Melilotus indicus*, experienced a decrease following sheep grazing. The annual invasive grass *Festuca perrenis* increased its dry biomass following grazing. Additionally, T-test results suggest that the differences between the mean dry weights of the pre-grazing and
+post-grazing biomass samples of *F. perennis*, *M. polymorpha*, and *S. pulchra* are not statistically significant. Finally, The abundance of *M. polymorpha* individuals, very few *F. perennis* individuals, and complete lack of *S. pulchra*, *D. fasciculata*, and *M. indicus* individuals, suggests that the seeds of *M. polymorpha* are relatively durable and have high germination viability after passing through the sheep.
 
-Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.): 
+These findings show that intentional disturbance can affect plant communities in species specific ways, which connects to my question of how native and non native percent cover changes before and after disturbance at NCOS. The findings relate most closely to Figure 1 which compares native vs. non-native cover over time, and to Figure 2, which shows percent cover changes in key species after the 2023 cultural burn. The poster's findings suggest that disturbance does not produce one uniform response, which is important for evaluating whether disturbance is meeting restoration goals or favoring invasive cover.
 
 # Annotated bibliography
 
