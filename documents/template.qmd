@@ -108,53 +108,63 @@ As a group:
 
 ### Paper 1
 
-Title:
+Title: Response of a Native Perennial Grass Stand to Disturbance in California's Coast Range Grassland
 
-Authors:
+Authors:James W. Bartolome, Jeffrey S. Fehmi, Randall D. Jackson, Barbara Allen-Diaz
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): 
+Found no significant burning effects and grazing removal imparted a shift in plant community from more annual-dominated toward ore perennial-dominated vegetation. Individual perennial grass species responded differently according to genus and species. Under relatively mesic weather conditions it appears that grazing removal from Coast Range Grasslands with existing native perennial grass populations can increase their cover. However if N. pulchra is the sole existing population, spring season-restricted grazing should be equally effective at enhancing cover of the native grass species.
 
 Relevance to study (2-4 sentences):
+This article found one method of disturbance created shifts in the plant community in a study location similar to NCOS. One of the methods we were looking at was grazing so the paper shows us guidance of possible outcome we could be looking at for results. Mention of burning having no impact also guides our expectation for results as well. 
 
 ### Paper 2
 
-Title:
+Title: Optimal prescribed burn frequency to manage foundation California perennial grass species and enhance native flora
 
-Authors:
+Authors: Tina M. Carlsen, Erin K. Espeland, Lisa E. Paterson & Don H. MacQueen
 
 Main findings (2-4 sentences):
+Annual burning maintained P. secunda number, resulted in significant expansion, the lowest thatch and exotic grass cover, the highest percentage of bare ground, but also the lowest native forb and highest exotic forb cover. Burning every 3 years maintained lower numbers of P. secunda plants, allowed for expansion, and resulted in the highest native forb cover with a low exotic grass cover while burning every 5 years and the control (burned once from a wildfire) resulted in a decline in P. secunda number, the highest exotic grass and thatch cover and the lowest percentage of bare ground. Perennial grass species management must also consider other native species life history and phenology to enhance native flora diversity.
 
 Relevance to study (2-4 sentences):
+Paper shows that annual burning can result in expansion, low covers for other categories, and low native forb and high exotic forb which can also give us an aim on how our results should look. Burn intensity/frequency also gives us aim depending on how far and how often burn was in NCOS. Also gives us something for future consideration since perennial grass management also is needed for consideration. 
 
 ### Paper 3
 
-Title:
+Title:Prescribed Fire, Soil, and Plants: Burn Effects and Interactions in the Central Great Basin
 
-Authors:
+Authors:Benjamin M. Rau, Jeanne C. Chambers, Robert R. Blank, Dale W. Johnson 
 
 Main findings (2-4 sentences):
+Burning resulted in increases in soil surface NH+4, NO3−, inorganic N, Ca2+, Mn2+, and Zn2+. Increases in NO3−, inorganic N, and Zn2+ were also observed in deeper horizons. Burning did not affect aboveground plant biomass or nutrient concentrations in the first year with the exception of F. idahoensis, which had increased tissue P. By the second year, all species had statistically significant responses to burning. The most common response was for increased aboveground plant weight and tissue N concentrations. Plant response to burning appeared to be related to the burn treatment and the soil variables surface K+, NO3−, and inorganic N. 
 
 Relevance to study (2-4 sentences):
+Shows other factors we could look at if available such as soil content. Also gives us aim for what data should look like as they mention how plant biomass looked like one year post disturbance. Also gives us insight into knowledge gap from other studies about what a 2nd year post disturbance looks like.
 
 ### Paper 4
 
-Title:
+Title:Prescribed Fire Effects on Population Dynamics of an Annual Grassland
 
-Authors:
+Authors:Sasha A. Berleman, Katharine N. Suding b, Danny L. Fry,James W. Bartolome, Scott L. Stephens
 
 Main findings (2-4 sentences):
+1) seed dispersal is an important factor in recovery dynamics and 2) wild oat fecundity significantly increases in the year after fire while medusahead and needlegrass fecundity seem minimally affected. Ultimately, managers should consider fire as a preferable first-entry tool and should thoroughly consider shape and size of planned burns, as well as what vegetation is present to play a role in post-treatment seed-dispersal dynamics.
 
 Relevance to study (2-4 sentences):
+Articles give another factor (seed dispersal) to consider when looking at data or explanations that could explain such variances in data. Also shows how some species are affected differently from fires one year post disturbance. Also gives ideas for recommendations for future improvements toward NCOS.
 
 ### Paper 5
 
-Title:
+Title:A decade-long study of repeated prescription burning in California native grassland restoration
 
-Authors:
+Authors:Jon E. Keeley, Robert C. Klinger, Teresa J. Brennan, Dawn M. Lawson, John La Grange, Kathryn N. Berg
 
 Main findings (2-4 sentences):
+In the first postfire year burning showed a 70% reduction in cover of non-native annual grasses (Bromus diandrus exhibited the greatest reduction) and minimal impact on S. pulchra recovery. In the following 3 years, S. pulchra recovered to levels comparable to controls, whereas the annual grasses remained below control levels until the fifth year. Also, in response to reduced annual grass cover on burned sites several species of non-native Erodium increased from 10 to 30% relative cover, however, the low growth form of these forbs presented a less competitive threat to bunchgrasses than the non-native annual grasses, and by the third postfire year returned to near control levels. The cover of S. pulchra varied in response to precipitation, with the 95% credible intervals of precipitation parameters overlapping zero, however, the cover of non-native grasses varied greatly with precipitation and had similar trajectories in unburned and burned plots. 
 
 Relevance to study (2-4 sentences):
+Also gives reference to compare values received from NCOS. Shows how non-native species could be increasing one year post disturbance and allows us to compare these value subsets. Also adds a precipitation factor, which we did in our exploratory graph that allows us to compare how and if precipitation has an influence historically. 
 
 ### Paper 6
 
