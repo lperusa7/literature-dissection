@@ -153,6 +153,15 @@ Articles give another factor (seed dispersal) to consider when looking at data o
 
 ### Paper 5
 
+Title:The effects of indigenous prescribed fire on riparian vegetation in central California
+
+Authors:Hankins, D.L. 
+
+Main findings (2-4 sentences):
+Timing of burns matter. Fall burns support higher overall richness and native species richness; spring burns yield a decrease in overall richness, but an increase in native species richness; and summer burns contribute to an initial decline in overall and native species richness.
+
+Relevance to study (2-4 sentences):
+Also gives reference to compare values received from NCOS; we can compare NCOS burns/disturbances with disturbances in article. Also used in same biome/region so results from article are more accurate to compare to.
 
 
 ### Paper 6
@@ -256,20 +265,21 @@ year = {2004}
 }
 
 ## 2. 
-@article { LandscaperestorationinsouthernCaliforniaforblandsResponseofabandonedfarmlandtoinvasiveannualgrasscontrol,
-      author = "EDITH B. ALLEN and ROBERT D. COX and TRACY TENNANT and SHEILA N. KEE and DOUGLAS H. DEUTSCHMAN",
-      title = "Landscape restoration in southern California forblands: Response of abandoned farmland to invasive annual grass control",
-      journal = "Israel Journal of Plant Sciences",
-      year = "2005",
-      publisher = "Brill",
-      address = "Leiden, The Netherlands",
-      volume = "53",
-      number = "3-4",
-      doi = "10.1560/65LM-55YH-GB49-5BJM",
-      pages=      "237 - 245",
-      url = "https://brill.com/view/journals/ijps/53/3-4/article-p237_11.xml"
+@Article{Hankins2013,
+author={Hankins, Don L.},
+title={The effects of indigenous prescribed fire on riparian vegetation in central California},
+journal={Ecological Processes},
+year={2013},
+month={Jul},
+day={29},
+volume={2},
+number={1},
+pages={24},
+abstract={Fire has a long history, but little documented role, as a process in riparian ecosystems. For millennia California Indians have applied fire to riparian ecosystems for a variety of purposes, but the effects of such fires on riparian vegetation are poorly known outside of traditional knowledge structures of indigenous communities.},
+issn={2192-1709},
+doi={10.1186/2192-1709-2-24},
+url={https://doi.org/10.1186/2192-1709-2-24}
 }
-
 ## 3.
 @article{BERLEMAN2016423,
 title = {Prescribed Fire Effects on Population Dynamics of an Annual Grassland},
