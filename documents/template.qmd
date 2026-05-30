@@ -153,15 +153,7 @@ Articles give another factor (seed dispersal) to consider when looking at data o
 
 ### Paper 5
 
-Title:A decade-long study of repeated prescription burning in California native grassland restoration
 
-Authors:Jon E. Keeley, Robert C. Klinger, Teresa J. Brennan, Dawn M. Lawson, John La Grange, Kathryn N. Berg
-
-Main findings (2-4 sentences):
-In the first postfire year burning showed a 70% reduction in cover of non-native annual grasses (Bromus diandrus exhibited the greatest reduction) and minimal impact on S. pulchra recovery. In the following 3 years, S. pulchra recovered to levels comparable to controls, whereas the annual grasses remained below control levels until the fifth year. Also, in response to reduced annual grass cover on burned sites several species of non-native Erodium increased from 10 to 30% relative cover, however, the low growth form of these forbs presented a less competitive threat to bunchgrasses than the non-native annual grasses, and by the third postfire year returned to near control levels. The cover of S. pulchra varied in response to precipitation, with the 95% credible intervals of precipitation parameters overlapping zero, however, the cover of non-native grasses varied greatly with precipitation and had similar trajectories in unburned and burned plots. 
-
-Relevance to study (2-4 sentences):
-Also gives reference to compare values received from NCOS. Shows how non-native species could be increasing one year post disturbance and allows us to compare these value subsets. Also adds a precipitation factor, which we did in our exploratory graph that allows us to compare how and if precipitation has an influence historically. 
 
 ### Paper 6
 
@@ -264,20 +256,20 @@ year = {2004}
 }
 
 ## 2. 
-@article{https://doi.org/10.1111/rec.13939,
-author = {Keeley, Jon E. and Klinger, Robert C. and Brennan, Teresa J. and Lawson, Dawn M. and La Grange, John and Berg, Kathryn N.},
-title = {A decade-long study of repeated prescription burning in California native grassland restoration},
-journal = {Restoration Ecology},
-volume = {31},
-number = {7},
-pages = {e13939},
-keywords = {Bromus, invasive annuals, native grasslands, Stipa pulchra},
-doi = {https://doi.org/10.1111/rec.13939},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13939},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/rec.13939},
-abstract = {Native bunchgrass communities dominated by Stipa pulchra are widely distributed in California but share dominance with non-native annual grasses. Restoration of these grasslands focuses on altering the balance of native to non-native grasses to favor the former. This study investigated the impact of burning on vegetation recovery. In the first postfire year burning showed a 70\% reduction in cover of non-native annual grasses (Bromus diandrus exhibited the greatest reduction) and minimal impact on S. pulchra recovery. In the following 3 years, S. pulchra recovered to levels comparable to controls, whereas the annual grasses remained below control levels until the fifth year. Also, in response to reduced annual grass cover on burned sites several species of non-native Erodium increased from 10 to 30\% relative cover, however, the low growth form of these forbs presented a less competitive threat to bunchgrasses than the non-native annual grasses, and by the third postfire year returned to near control levels. The rare native geophyte Brodiaea kinkiensis was present throughout these grasslands and was not inhibited by burning treatments. To document the reliability of these patterns a second prescription burn was conducted on these sites 5 years after the first burn and vegetation recovery followed for the subsequent 4 years. Patterns observed after the first burn were duplicated following the second burn. The cover of S. pulchra varied in response to precipitation, with the 95\% credible intervals of precipitation parameters overlapping zero, however, the cover of non-native grasses varied greatly with precipitation and had similar trajectories in unburned and burned plots.},
-year = {2023}
+@article { LandscaperestorationinsouthernCaliforniaforblandsResponseofabandonedfarmlandtoinvasiveannualgrasscontrol,
+      author = "EDITH B. ALLEN and ROBERT D. COX and TRACY TENNANT and SHEILA N. KEE and DOUGLAS H. DEUTSCHMAN",
+      title = "Landscape restoration in southern California forblands: Response of abandoned farmland to invasive annual grass control",
+      journal = "Israel Journal of Plant Sciences",
+      year = "2005",
+      publisher = "Brill",
+      address = "Leiden, The Netherlands",
+      volume = "53",
+      number = "3-4",
+      doi = "10.1560/65LM-55YH-GB49-5BJM",
+      pages=      "237 - 245",
+      url = "https://brill.com/view/journals/ijps/53/3-4/article-p237_11.xml"
 }
+
 ## 3.
 @article{BERLEMAN2016423,
 title = {Prescribed Fire Effects on Population Dynamics of an Annual Grassland},
@@ -333,22 +325,84 @@ url={https://doi.org/10.1007/s10531-017-1376-y}
 }
 
 ## 6. 
+@article{https://doi.org/10.1890/08-1371.1,
+author = {Matthews, Jeffrey W. and Spyreas, Greg and Endress, Anton G.},
+title = {Trajectories of vegetation-based indicators used to assess wetland restoration progress},
+journal = {Ecological Applications},
+volume = {19},
+number = {8},
+pages = {2093-2107},
+keywords = {bioindicators, Carex, emergent wetland, floodplain forest, floristic quality, Illinois, USA, invasive species, reference sites, species richness, succession, wetland mitigation},
+doi = {https://doi.org/10.1890/08-1371.1},
+url = {https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/08-1371.1},
+eprint = {https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1890/08-1371.1},
+abstract = {Temporal trends in attributes of restored ecosystems have been described conceptually as restoration trajectories. Measures describing the maturity or ecological integrity of a restoration site are often assumed to follow monotonically increasing trajectories over time and to eventually reach an asymptote representative of a reference ecosystem. This assumption of simple, predictable restoration trajectories underpins federal and state policies in the United States that mandate wetland restoration as compensation for wetlands damaged during development. We evaluated the validity of this assumption by tracking changes in 11 indicators of floristic integrity, often used to determine legal compliance, in 29 mitigation wetlands. Each indicator was expressed as a percentile relative to the distribution of that indicator among >100 naturally occurring reference wetlands. Nonlinear regression was used to fit two alternative restoration trajectories to data from each site: an asymptotic (negative exponential) increase in the indicator over time and a peaked (double exponential) relationship. Depending on the particular indicator, between 48\% and 76\% of sites displayed trends that were at least moderately well described (R2 > 0.5) by one of the two models. Floristic indicators based on species richness, including native richness, number of native genera, and the floristic quality index, rapidly increased to asymptotes exceeding levels in a majority of reference wetlands. In contrast, indicators based on species composition, including mean coefficient of conservatism and relative importance of perennial species, increased very slowly. Thus, some indicators of restoration progress followed increasing trajectories and achieved or surpassed levels equivalent to high-quality reference sites within five years, whereas others appeared destined to either not reach equivalency or to take much longer than mitigation wetlands are typically monitored. Finally, some indicators of restoration progress, such as relative importance of native species, often increased over the first five to 10 years and then declined, which would result in a misleading assessment of progress if based on typical time scales of monitoring. Therefore, the assumption of simple, rapid, and predictable restoration trajectories that underlies wetland mitigation policy is unrealistic.},
+year = {2009}
+}
+
 
 
 ## 7.
+@article{https://doi.org/10.1111/rec.13939,
+author = {Keeley, Jon E. and Klinger, Robert C. and Brennan, Teresa J. and Lawson, Dawn M. and La Grange, John and Berg, Kathryn N.},
+title = {A decade-long study of repeated prescription burning in California native grassland restoration},
+journal = {Restoration Ecology},
+volume = {31},
+number = {7},
+pages = {e13939},
+keywords = {Bromus, invasive annuals, native grasslands, Stipa pulchra},
+doi = {https://doi.org/10.1111/rec.13939},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13939},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/rec.13939},
+abstract = {Native bunchgrass communities dominated by Stipa pulchra are widely distributed in California but share dominance with non-native annual grasses. Restoration of these grasslands focuses on altering the balance of native to non-native grasses to favor the former. This study investigated the impact of burning on vegetation recovery. In the first postfire year burning showed a 70\% reduction in cover of non-native annual grasses (Bromus diandrus exhibited the greatest reduction) and minimal impact on S. pulchra recovery. In the following 3 years, S. pulchra recovered to levels comparable to controls, whereas the annual grasses remained below control levels until the fifth year. Also, in response to reduced annual grass cover on burned sites several species of non-native Erodium increased from 10 to 30\% relative cover, however, the low growth form of these forbs presented a less competitive threat to bunchgrasses than the non-native annual grasses, and by the third postfire year returned to near control levels. The rare native geophyte Brodiaea kinkiensis was present throughout these grasslands and was not inhibited by burning treatments. To document the reliability of these patterns a second prescription burn was conducted on these sites 5 years after the first burn and vegetation recovery followed for the subsequent 4 years. Patterns observed after the first burn were duplicated following the second burn. The cover of S. pulchra varied in response to precipitation, with the 95\% credible intervals of precipitation parameters overlapping zero, however, the cover of non-native grasses varied greatly with precipitation and had similar trajectories in unburned and burned plots.},
+year = {2023}
+}
+
 
 
 ## 8. 
-
+@article{galloway2026prescribed,
+  title = {PRESCRIBED BURN IMPACTS ON CALIFORNIA COASTAL PRAIRIE SEED BANKS},
+  author = {Esther M. Galloway and Max R. Musto and Georgia L. Vasey and Karen D. Holl},
+  year = {2026},
+  publisher = {California Botanical Society},
+  journal = {Madroño},
+  volume = {73},
+  doi = {10.3120/0024-9637-260004},
+  url = {https://doi.org/10.3120/0024-9637-260004}
+}
 
 ## 9. 
-
+@article{bartolome2019evaluating,
+  title={Evaluating Prescribed Fire Effect on Medusa Head and Other Invasive Plants in Coastal Prairie at Point Pinole},
+  author={Bartolome, James and Brown, Atalie and Hopkinson, Peter and Hammond, Michele and Macaulay, Luke and Ratcliff, Felix},
+  journal={Grasslands-Winter 2019},
+  volume={29},
+  number={1},
+  year={2019}
+}
 
 ## 10.
-
+@article{menke1992grazing,
+  title={Grazing and fire management for native perennial grass restoration in California grasslands},
+  author={Menke, John W},
+  journal={Fremontia},
+  volume={20},
+  number={2},
+  pages={22--25},
+  year={1992}
+}
 
 ## 11.
-
+@article{rickard2024north,
+  title={North Campus OpenNorth Campus Open Space Restoration Project Monitoring Report: Year 7, December 2024},
+  author={Rickard, Alison},
+  year={2024}
+}
 
 ## 12.
-
+@article{nestor2025evaluating,
+  title={Evaluating Sheep Grazing as a Strategy for Restoring the North Campus Open Space (NCOS) Grasslands},
+  author={Nestor, Abby},
+  year={2025}
+}
