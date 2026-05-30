@@ -248,3 +248,15 @@ Relevance to study (2-4 sentences):
 This paper directly supports prescribed burn as a restoration tool in Stipa pulchra dominated California grasslands using the same focal species and ecosystem as our study. The multi-year recovery pattern contextualizes the post-burn decline in our native grass cover and reinforces that our 2021-2025 window may not capture full recovery. We note that their study used repeated burns while ours analyzes a single burn event.
 
 # References
+@nativeJamesgrass
+@Hankins2013
+@BERLEMAN2016423
+@RAU2008169
+@Carlsen2017
+@MatthewsTraj
+@KeeleyDecade
+@galloway2026prescribed
+@bartolome2019evaluating
+@menke1992grazing
+@rickard2024north
+@nestor2025evaluating
