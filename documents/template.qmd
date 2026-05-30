@@ -161,70 +161,93 @@ Title:A decade-long study of repeated prescription burning in California native 
 Authors:Jon E. Keeley, Robert C. Klinger, Teresa J. Brennan, Dawn M. Lawson, John La Grange, Kathryn N. Berg
 
 Main findings (2-4 sentences):
-In the first postfire year burning showed a 70% reduction in cover of non-native annual grasses (Bromus diandrus exhibited the greatest reduction) and minimal impact on S. pulchra recovery. In the following 3 years, S. pulchra recovered to levels comparable to controls, whereas the annual grasses remained below control levels until the fifth year. Also, in response to reduced annual grass cover on burned sites several species of non-native Erodium increased from 10 to 30% relative cover, however, the low growth form of these forbs presented a less competitive threat to bunchgrasses than the non-native annual grasses, and by the third postfire year returned to near control levels. The cover of S. pulchra varied in response to precipitation, with the 95% credible intervals of precipitation parameters overlapping zero, however, the cover of non-native grasses varied greatly with precipitation and had similar trajectories in unburned and burned plots. 
+In the first postfire year burning showed a 70% reduction in cover of non-native annual grasses (Bromus diandrus exhibited the greatest reduction) and minimal impact on S. pulchra recovery. In the following 3 years, S. pulchra recovered to levels comparable to controls, whereas the annual grasses remained below control levels until the fifth year. Also, in response to reduced annual grass cover on burned sites several species of non-native Erodium increased from 10 to 30% relative cover, however, the low growth form of these forbs presented a less competitive threat to bunchgrasses than the non-native annual grasses, and by the third postfire year returned to near control levels. The cover of S. pulchra varied in response to precipitation, with the 95% credible intervals of precipitation parameters overlapping zero, however, the cover of non-native grasses varied greatly with precipitation and had similar trajectories in unburned and burned plots. 
 
 Relevance to study (2-4 sentences):
 Also gives reference to compare values received from NCOS. Shows how non-native species could be increasing one year post disturbance and allows us to compare these value subsets. Also adds a precipitation factor, which we did in our exploratory graph that allows us to compare how and if precipitation has an influence historically. 
 
 ### Paper 6
 
-Title:
+Title: Prescribed Burn Impacts on California Coastal Prairie Seed Banks
 
-Authors:
+Authors: Authors not specified in provided text; published in Madroño
 
 Main findings (2-4 sentences):
+Pre- and post-burn soil samples from four Central Coast California prairie sites showed that non-native grass germinants significantly decreased after fire but remained high overall, suggesting single prescribed burns are insufficient to reduce invasive abundance. Non-native forbs showed a weaker post-fire decline while native forb and graminoid abundance did not change consistently. Burning during wet soil conditions was more effective at reducing non-natives than burning in dry conditions, though wet-season burns may adversely affect some natives.
 
 Relevance to study (2-4 sentences):
+The Central Coast California coastal prairie setting is the strongest geographic match of any paper we identified, and the Fall 2024 sampling timeline overlaps with our post-burn monitoring period. The finding that single prescribed burns are insufficient to reduce non-native grass abundance contextualizes why we still observe high non-native cover post-burn in our data. Their seed bank focus complements our above-ground percent cover measurements as two approaches to the same management question.
 
 ### Paper 7
 
-Title:
+Title: Grazing and Fire Management for Native Perennial Grass Restoration in California Grasslands
 
-Authors:
+Authors: Menke, J.W.
 
 Main findings (2-4 sentences):
+Time-controlled short-duration high-intensity sheep or cattle grazing in early spring removes alien annual plant seed and opens the sward canopy to allow light to reach perennial seedlings. Late spring prescribed burning reduces alien annual seed production and seedbank size while increasing perennial grass seedling establishment, though perennial grasses show reduced seed production the first year post-fire before recovering by year two or three. The author recommends burning every third or fourth year since alien annual species composition returns to pre-fire status within about three years.
 
 Relevance to study (2-4 sentences):
+This paper directly addresses combined grazing and prescribed fire as restoration tools for native perennial grass restoration in California grasslands, making it the most directly relevant to our dual treatment design. Stipa pulchra is a focal species in this paper supporting our use of it as a native grass indicator, and the observation that perennials show reduced seed production the first year post-fire contextualizes our 2024 S. pulchra decline as an expected short-term response. The author also notes that competitive effects of annual clovers on native perennial seedlings are unknown, which is directly relevant to the clover increase we observe post-treatment.
 
 ### Paper 8
 
-Title:
+Title: Evaluating Prescribed Fire Effect on Medusa Head and Other Invasive Plants in Coastal Prairie at Point Pinole
 
-Authors:
+Authors: Bartolome, J.W., et al.
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): A June 2016 prescribed burn at Point Pinole Regional Shoreline targeted medusa head and other invasive grasses across coastal prairie meadows. Pre- and post-burn vegetation monitoring used a nested frequency sampling approach along transects to document effects on target invasive grasses, other invasives, native perennial grasses, and common native forbs. The study documented effects of burning on coastal prairie species including Stipa pulchra, Brachypodium distachyon, and Distichlis spicata.
 
 Relevance to study (2-4 sentences):
+The coastal prairie California grassland setting makes this study more ecologically comparable to NCOS mesa than most burn studies, and Stipa pulchra and Brachypodium distachyon appear in both datasets providing direct species-level comparability. The transect-based monitoring methodology is comparable to ours. We note the timing difference since their burn was conducted in June while ours was Fall 2023, which could affect which species are most impacted.
 
 ### Paper 9
 
-Title:
+Title: North Campus Open Space Restoration Project Monitoring Report: Year 7, December 2024
 
-Authors:
+Authors: Cheadle Center for Biodiversity and Ecological Restoration, UC Santa Barbara
 
 Main findings (2-4 sentences):
+The report summarizes monitoring results from 2017 to 2024 across native and non-native plants, birds, small mammals, aquatic invertebrates, tree growth, and hydrology at NCOS. The project has restored over 40 acres of estuarine and palustrine wetlands and more than 60 acres of upland habitats including native grassland, coastal sage scrub, and vernal pools. The report documents site progression from barren excavated land in 2017 to a fully restored landscape by 2024.
 
 Relevance to study (2-4 sentences):
+The report provided prescribed burn timing and treatment details essential to defining our pre and post burn comparison years. It also provided site context for the Mesa (GL) perennial grassland transects we analyzed. The 2017-2024 monitoring period offers a pre-treatment baseline that frames our 2021-2025 analysis window.
 
 ### Paper 10
 
-Title:
+Title: Evaluating Sheep Grazing as a Strategy for Restoring the North Campus Open Space (NCOS) Grasslands
 
-Authors:
+Authors: Cheadle Center for Biodiversity and Ecological Restoration, UC Santa Barbara
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): 
+Short-term rotational sheep grazing was used at NCOS to reduce thatch, invasive species seed banks, and invasive biomass to encourage native species growth. Pre-grazing and post-grazing biomass samples were compared and sheep pellet samples were assessed for seed viability over an eight-month greenhouse trial. The study evaluated the immediate impacts of grazing on key species abundance and the efficacy of the grazing regime in reducing invasive populations.
 
 Relevance to study (2-4 sentences):
+This study is site-specific to NCOS making it directly applicable to our analysis and confirmed our selection of four focal species. We adapted their visualization approach to design our diverging bar chart showing percent point change in mean cover. We also adopted their paired t-test framework comparing pre- and post-treatment mean percent cover.
+
+### Paper 11
+
+Title: Trajectories of vegetation-based indicators used to assess wetland restoration progress
+
+Authors: Matthews, J.W., Spyreas, G.
+
+Main findings (2-4 sentences):
+Restoration trajectories in 29 mitigation wetlands often deviated from the assumed monotonic increase toward reference conditions. Some floristic indicators rapidly reached or exceeded reference levels within five years, while others either failed to reach equivalency or took much longer than typical monitoring windows. Importantly, some indicators increased over the first 5 to 10 years and then declined, demonstrating that short monitoring windows can produce misleading assessments of restoration progress.
+
+Relevance to study (2-4 sentences):
+The paper supports our interpretation that native cover declining post-burn does not necessarily indicate restoration failure, as non-monotonic trajectories are well-documented in restored ecosystems. It also justifies the need for longer-term monitoring beyond our current 2021-2025 window. We acknowledge that the wetland focus differs from our coastal grassland system, but the general principles about non-linear restoration trajectories still apply.
 
 ### Paper 12
 
-Title:
+Title: A decade-long study of repeated prescription burning in California native grassland restoration
 
-Authors:
+Authors: Keeley, J.E., et al.
 
 Main findings (2-4 sentences):
+Prescribed burning in Stipa pulchra dominated California grasslands reduced non-native annual grass cover by 70% in the first post-fire year while having minimal impact on S. pulchra recovery. S. pulchra recovered to control levels within three years while non-native grasses remained suppressed until year five. Recovery patterns were duplicated after a second burn conducted five years later, demonstrating the reliability of the response.
 
 Relevance to study (2-4 sentences):
+This paper directly supports prescribed burn as a restoration tool in Stipa pulchra dominated California grasslands using the same focal species and ecosystem as our study. The multi-year recovery pattern contextualizes the post-burn decline in our native grass cover and reinforces that our 2021-2025 window may not capture full recovery. We note that their study used repeated burns while ours analyzes a single burn event.
 
 # References
 
