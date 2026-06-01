@@ -168,7 +168,7 @@ Also gives reference to compare values received from NCOS; we can compare NCOS b
 
 Title: Prescribed Burn Impacts on California Coastal Prairie Seed Banks
 
-Authors: Authors not specified in provided text; published in Madroño
+Authors: Esther M. Galloway, Max R. Musto, Georgia L. Vasey, Karen D. Holl
 
 Main findings (2-4 sentences):
 Pre- and post-burn soil samples from four Central Coast California prairie sites showed that non-native grass germinants significantly decreased after fire but remained high overall, suggesting single prescribed burns are insufficient to reduce invasive abundance. Non-native forbs showed a weaker post-fire decline while native forb and graminoid abundance did not change consistently. Burning during wet soil conditions was more effective at reducing non-natives than burning in dry conditions, though wet-season burns may adversely affect some natives.
