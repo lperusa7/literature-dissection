@@ -13,13 +13,6 @@ This repository contains the materials for the Literature Dissection assignment 
 - Garrett Mellinger
 - Minh Tri Ngo
 
-### Course and affiliation
-ENVS-193DS/DD, Spring 2026
-University of California, Santa Barbara
-
-### Date
-Last updated: 2026-05-29
-
 ## Data and file information
 
 ```
