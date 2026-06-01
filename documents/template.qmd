@@ -30,17 +30,17 @@ As a group:
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
 
-|(14)| April 2024 | Spring | W  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/1648763123868 | 
+|(14)| April 2024 | Spring | W   | [Link to Photo #14 West](https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/1648763123868) | 
 
-|(14)| April 2024 | Spring | SW  | https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/1648754902830 |
+|(14)| April 2024 | Spring | SW  | [Link to Photo #14 Southwest](https://ucsb.app.box.com/s/e2r7vg2d0rmfj0aa60m77tlba6bzc035/file/1648754902830) |
 
-|(15)| April 2024 | Spring | W   | https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/1648764196281 |
+|(15)| April 2024 | Spring | W   | [Link to Photo #15 West](https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/1648764196281) |
 
-|(15)| April 2024 | Spring | SW   | https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/1648760591147 |
+|(15)| April 2024 | Spring | SW  | [Link to Photo #15 Southwest](https://ucsb.app.box.com/s/9lbxurd3koco1bqkm0b58nfw5bxecz9l/file/1648760591147) |
 
-|(08)| April 2024 | Spring | E   | https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/1648763461393 |
+|(08)| April 2024 | Spring | E   | [Link to Photo #08 East](https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/1648763461393) |
 
-|(08)| April 2024 | Spring | SE   | https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/1648756518715 |
+|(08)| April 2024 | Spring | SE  | [Link to Photo #08 Southeast](https://ucsb.app.box.com/s/imeeghcpyyn2zxnnx67fo2bswjwwxe8q/file/1648756518715) |
 
 8.  Describe in 5-7 sentences total:
 
@@ -66,7 +66,7 @@ Faculty Advisors: Dr. Lisa Stratton and Dr. Carla D'Antonio
 
 Year published: 2025
 
-Permalink: [https://escholarship.org/uc/item/9jp6r7zs]
+Permalink: [Link to Poster](https://escholarship.org/uc/item/9jp6r7zs)
 
 Dataset used (likely): self procured experimental datasets -- greenhouse seed viability experiment, field biomass experiment 
 
